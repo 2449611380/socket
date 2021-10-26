@@ -1,0 +1,25 @@
+{
+    "name": "socket",
+    "version": "1.0.0",
+    "description": "socket学习 状态同步",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/2449611380/socket.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/2449611380/socket/issues"
+    },
+    "homepage": "https://github.com/2449611380/socket#readme",
+    "devDependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.14",
+        "socket.io": "^4.3.1"
+    }
+}
